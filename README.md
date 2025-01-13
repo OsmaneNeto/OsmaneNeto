@@ -36,4 +36,4 @@ Ferramentas e Frameworks
 
 🌐 Conecte-se comigo
 <p align="left"> <a href="https://www.linkedin.com/in/osmane-barbosa-neto-9374861a3" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/OsmaneNeto" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:osmane.neto@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://www.instagram.com/osmane.neto/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
-📍 Campinas, SPP
+📍 Campinas, SP
