@@ -14,9 +14,10 @@
 # 📊 Bancos de Dados: MySQL | MongoDB | PostgreSQL | Firebase.
 # 🌐 Tecnologias Web: HTML5 | CSS3.
 # 📚 Frameworks e Bibliotecas: React.js | Node.js | Flask | ASP.NET | Java Spring.
-# 🛠️ Ferramentas e Metodologias:
-# Git | Figma | Power BI | JIRA | Trello.
-# Metodologias ágeis (Scrum e ScrumBan).
+
+### 🛠️ Ferramentas e Metodologias:
+ Git | Figma | Power BI | JIRA | Trello.
+ Metodologias ágeis (Scrum e ScrumBan).
 
 ### 📊 Estatísticas
 
