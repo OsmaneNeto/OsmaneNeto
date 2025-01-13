@@ -19,10 +19,6 @@
 # 🛠️ Ferramentas e Metodologias:
 # Git | Figma | Power BI | JIRA | Trello.
 # Metodologias ágeis (Scrum e ScrumBan).
-# Projetos Relevantes
-# MoneySide: Sistema financeiro com OCR para extração de dados e geração de gráficos.
-# Tecnologias: ASP.NET, JavaScript, MySQL, HTML, CSS.
-# Software Educacional: Aplicação que gera textos científicos personalizados utilizando Flask, React.js e OpenAI.
 
 ### 📊 Estatísticas do GitHub
 
@@ -32,9 +28,6 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmaneNeto&layout=compact&theme=radical)
 
-### 🗂️ Contribuições Recentes
-
-![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=OsmaneNeto&theme=radical)
 
 Linguagens de Programação
 <p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"> </p>
