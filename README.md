@@ -32,6 +32,11 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmaneNeto&layout=compact&theme=radical)
 
+### 🗂️ Contribuições Recentes
+
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=OsmaneNeto&theme=radical)
+
+
 
 🌐 Conecte-se comigo
 💼 LinkedIn
