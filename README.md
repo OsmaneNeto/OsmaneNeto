@@ -3,7 +3,7 @@
 ## Sobre mim
 # 🎓 Formação acadêmica:
 # Tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC Campinas) – Em andamento.
-# Técnico em Desenvolvimento de Sistemas (SENAI Zerbini) – Em andamento.
+# Técnico em Desenvolvimento de Sistemas (SENAI Zerbini).
 # Técnico em Meio Ambiente (ETECAP - Lavoisier) – Concluído.
 # 💼 Desenvolvedor Fullstack com 2 anos de experiência em desenvolvimento web, especializado em soluções front-end e back-end.
 # 🌱 Apaixonado por inovação, sustentabilidade e boas práticas no desenvolvimento de sistemas.
