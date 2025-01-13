@@ -22,7 +22,7 @@
 
 ![Estatísticas do GitHub de Osmane](https://github-readme-stats.vercel.app/api?username=OsmaneNeto&show_icons=true&theme=radical)
 
-### 🚀 Linguagens Mais Usadas
+🚀 Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmaneNeto&layout=compact&theme=radical)
 
