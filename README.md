@@ -1,5 +1,3 @@
-# OsmaneB.Neto
-
 #👋 Olá, sou Osmane!
 
 ## Sobre mim
