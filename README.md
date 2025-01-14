@@ -1,4 +1,4 @@
-#👋 Olá, sou Osmane!
+👋 Olá, sou Osmane!
 
 
 ## Sobre mim
