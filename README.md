@@ -6,14 +6,14 @@
  Tecnólogo em Análise e Desenvolvimento de Sistemas (FATEC Campinas) – Em andamento.
  Técnico em Desenvolvimento de Sistemas (SENAI Zerbini).
  Técnico em Meio Ambiente (ETECAP - Lavoisier) – Concluído.
- 💼 Desenvolvedor Fullstack com 2 anos de experiência em desenvolvimento web, especializado em soluções front-end e back-end.
+ 💼 Desenvolvedor na Thomson Reuters Brasil e com 3 anos de experiência em desenvolvimento web, especializado em soluções front-end e back-end.
  🌱 Apaixonado por inovação, sustentabilidade e boas práticas no desenvolvimento de sistemas.
 
 
 ### Experiência e Habilidades
- 🛠️ Linguagens de Programação: Java | JavaScript | TypeScript | Python | C# | C | Golang.
+ 🛠️ Linguagens de Programação: Java | JavaScript | TypeScript | Python | C# | C | Golang | Centura
  
- 📊 Bancos de Dados: MySQL | MongoDB | PostgreSQL | Firebase.
+ 📊 Bancos de Dados: MySQL | MongoDB | PostgreSQL | Firebase | PL/SQL
  
  🌐 Tecnologias Web: HTML5 | CSS3.
  
